@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#05575f</color>
+    <color name="colorPrimaryDark">#04454b</color>
+    <color name="colorAccent">#00fd00</color>
+
+    <color name="textColorPrimary">#FFFFFF</color> <!-- foram adicionados-->
+    <color name="windowBackground">#FFFFFF</color> <!-- foram adicionados-->
+    <color name="navigationBarColor">#000000</color> <!-- foram adicionados-->
+    <color name="style_color_primary">#2d5d82</color> <!-- foram adicionados-->
+    <color name="style_color_primary_dark">#21425d</color> <!-- foram adicionados-->
+    <color name="style_color_accent">#01bcd5</color> <!-- foram adicionados-->
+    <color name="fab_color_pressed">#007787</color> <!-- foram adicionados-->
+    <color name="fab_color_shadow">#44000000</color> <!-- foram adicionados-->
+    <color name="btn_default_light_normal">#00000000</color> <!-- foram adicionados-->
+    <color name="btn_default_light_pressed">#3B5998</color> <!-- foram adicionados-->
+    <color name="btn_send_normal">#02c754</color> <!-- foram adicionados-->
+    <color name="btn_send_pressed">#006633</color> <!-- foram adicionados-->
+    <color name="btn_default_shadow">#99000000</color> <!-- foram adicionados-->
+    <color name="btn_context_menu_normal">#ffffff</color> <!-- foram adicionados-->
+    <color name="btn_context_menu_pressed">#40000000</color> <!-- foram adicionados-->
+    <color name="btn_context_menu_text_red">#ffff0000</color> <!-- foram adicionados-->
+    <color name="text_like_counter">#2b5a83</color> <!-- foram adicionados-->
+    <color name="bg_comments">#ffffff</color> <!-- foram adicionados-->
+    <color name="white">#ffffff</color> <!-- foram adicionados-->
+    <color name="feed_bg">#d3d6db</color> <!-- foram adicionados-->
+    <color name="feed_item_bg">#ffffff</color> <!-- foram adicionados-->
+    <color name="feed_item_border">#d8d9dc</color> <!-- foram adicionados-->
+    <color name="link">#0a80d1</color> <!-- foram adicionados-->
+    <color name="timestamp">#a0a3a7</color> <!-- foram adicionados-->
+    <color name="saffron">#F4B63E</color> <!-- foram adicionados-->
+    <color name="sienna">#EB6460</color> <!-- foram adicionados-->
+    <color name="green">#10b4a5</color> <!-- foram adicionados-->
+    <color name="purple">#7c57e4</color> <!-- foram adicionados-->
+    <color name="pink">#ff4284</color> <!-- foram adicionados-->
+    <color name="orange">#ff8c6a</color> <!-- foram adicionados-->
+    <color name="green_temp">#23A96E</color> <!-- foram adicionados-->
+    <color name="green_dark">#159204</color> <!-- foram adicionados-->
+    <color name="bright_green">#02D8B0</color> <!-- foram adicionados-->
+    <color name="button_green">#10a54a</color> <!-- foram adicionados-->
+    <color name="black">#000000</color> <!-- foram adicionados-->
+    <color name="jet">#222222</color> <!-- foram adicionados-->
+    <color name="oil">#333333</color> <!-- foram adicionados-->
+    <color name="monsoon">#777777</color> <!-- foram adicionados-->
+    <color name="jumbo">#888888</color> <!-- foram adicionados-->
+    <color name="aluminum">#999999</color> <!-- foram adicionados-->
+    <color name="base">#aaaaaa</color> <!-- foram adicionados-->
+    <color name="iron">#CCCCCC</color> <!-- foram adicionados-->
+</resources>
