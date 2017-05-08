@@ -43,6 +43,10 @@ import developer.unama.unama.app.AppController;
 import developer.unama.unama.model.FeedItem;
 import developer.unama.unama.view.FeedImageView;
 
+/*
+	Comentário de teste
+*/
+
 public class FeedListAdapter extends BaseAdapter {
     private Activity activity;
     private LayoutInflater inflater;
