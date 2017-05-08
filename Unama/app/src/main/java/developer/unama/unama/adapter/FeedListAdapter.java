@@ -44,7 +44,7 @@ import developer.unama.unama.model.FeedItem;
 import developer.unama.unama.view.FeedImageView;
 
 /*
-	Comentário de teste 2
+	Comentário de teste 
 */
 
 public class FeedListAdapter extends BaseAdapter {
